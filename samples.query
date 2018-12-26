@@ -1,0 +1,22 @@
+
+### Add link
+
+mutation {
+  createLink(data: {
+    url: "www.prisma.io"
+    description: "Prisma turns your database into a GraphQL API"
+  }) {
+    id
+  }
+}
+
+
+### get links
+
+query {
+  links {
+    id
+    url
+    description
+  }
+}

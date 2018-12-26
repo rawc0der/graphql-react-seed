@@ -1,0 +1,5 @@
+node_modules/
+.idea
+.git
+gw-react-apollo/node_modules/
+
