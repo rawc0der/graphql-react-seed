@@ -5,13 +5,6 @@
 datamodel: datamodel.graphql
 
 
-
-
-# bearer
-# eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJleHAiOjE1NDU0OTY5NzcsIm5iZiI6MTU0NTQxMDU3N30.mzgrvYcEVCBE1d9bX3QSAlBp_WaQ2vm7-rEhYcjBoF8
-
-
-
 # You can only access the API when providing JWTs that are signed with this secret
 secret: mysecret123
 endpoint: https://eu1.prisma.sh/alin-spinu-a527ac/grafitti-wall/dev
