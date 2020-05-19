@@ -6,7 +6,7 @@ datamodel: datamodel.graphql
 
 
 # You can only access the API when providing JWTs that are signed with this secret
-secret: mysecret123
+secret: oursecret123
 endpoint: https://eu1.prisma.sh/alin-spinu-a527ac/grafitti-wall/dev
 
 # Deploy hook
